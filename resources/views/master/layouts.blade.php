@@ -30,7 +30,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container-fluid px-md-4	">
-	      <a class="navbar-brand" href="index.html">ashrul</a>
+	      <a class="navbar-brand" href="index.html">zana</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -100,7 +100,7 @@
 								<div class="row">
 			            <div class="col-md-12 nav-link-wrap">
 				            <div class="nav nav-pills text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-				              <a class="nav-link active mr-md-1" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Find Hotel</a>
+				              <a class="nav-link active mr-md-1" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true">Find State</a>
 
 				              <a class="nav-link" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false">Find Restaurent</a>
 
@@ -312,7 +312,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | created by ashrul <i class="icon-heart text-danger" aria-hidden="true"></i>  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | created by zana <i class="icon-heart text-danger" aria-hidden="true"></i>  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
       </div>
